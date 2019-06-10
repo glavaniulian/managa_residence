@@ -1,0 +1,141 @@
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.Properties.Resources.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.csproj.GenerateResource.Cache
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.loginform.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.dashboard.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.myprofil_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.ClientAdd.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.ProjectAdd.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.PropertyAdd.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.Myprofile.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\bin\Debug\db_residence.mdf
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\bin\Debug\db_residence_log.ldf
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.csprojResolveAssemblyReference.cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.ClientAdd.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.loginform.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.dashboard.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.Myprofile.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.myprofil_component.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.ProjectAdd.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.Properties.Resources.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.PropertyAdd.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.csproj.GenerateResource.Cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.csproj.CoreCompileInputs.cache
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\bin\Debug\db_residence.mdf
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\bin\Debug\db_residence_log.ldf
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\bin\Debug\x.exe.config
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\bin\Debug\x.exe
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\bin\Debug\x.pdb
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\x.exe
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\x.pdb
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\bin\Debug\x.exe.config
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\bin\Debug\x.exe
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\bin\Debug\x.pdb
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\x.exe
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\x.pdb
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.ChangePassword.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.agentinterogate.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.projectinterogate.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.propertiesinterogate.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.customersphysical.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.customerslegal.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.popupbackforechpass.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.popupbackforesellproperties.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Debug\app_1.sellproperties.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.agentinterogate.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.projectinterogate.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.propertiesinterogate.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.customersphysical.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.customerslegal.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.ChangePassword.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.popupbackforechpass.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.popupbackforesellproperties.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\app_1\obj\Debug\app_1.sellproperties.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\bin\Debug\db_residence.mdf
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\bin\Debug\db_residence_log.ldf
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\bin\Debug\x.exe.config
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\bin\Debug\x.exe
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\bin\Debug\x.pdb
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.csprojResolveAssemblyReference.cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.agentinterogate.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.projectinterogate.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.propertiesinterogate.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.customersphysical.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.customerslegal.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.ChangePassword.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.ClientAdd.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.loginform.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.dashboard.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.Myprofile.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.myprofil_component.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.popupbackforechpass.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.popupbackforesellproperties.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.ProjectAdd.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.Properties.Resources.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.PropertyAdd.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.sellproperties.resources
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.csproj.GenerateResource.Cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\app_1.csproj.CoreCompileInputs.cache
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\x.exe
+C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\app_1\obj\Debug\x.pdb
+C:\Users\FISHU\Desktop\app_1\app_1\bin\Debug\db_residence.mdf
+C:\Users\FISHU\Desktop\app_1\app_1\bin\Debug\db_residence_log.ldf
+C:\Users\FISHU\Desktop\app_1\app_1\bin\Debug\x.exe.config
+C:\Users\FISHU\Desktop\app_1\app_1\bin\Debug\x.exe
+C:\Users\FISHU\Desktop\app_1\app_1\bin\Debug\x.pdb
+C:\Users\FISHU\Desktop\app_1\app_1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\FISHU\Desktop\app_1\app_1\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.agentinterogate.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.projectinterogate.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.propertiesinterogate.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.customersphysical.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.customerslegal.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.ChangePassword.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.ClientAdd.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.loginform.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.dashboard.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.Myprofile.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.myprofil_component.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.popupbackforechpass.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.popupbackforesellproperties.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.ProjectAdd.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.Properties.Resources.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.PropertyAdd.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.sellproperties.resources
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\app_1.csproj.GenerateResource.Cache
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\x.exe
+C:\Users\FISHU\Desktop\app_1\app_1\obj\Debug\x.pdb
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\bin\Debug\db_residence.mdf
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\bin\Debug\db_residence_log.ldf
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\bin\Debug\x.exe.config
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\bin\Debug\x.exe
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\bin\Debug\x.pdb
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\bin\Debug\PictureBoxAbouAmmar.dll
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.csprojAssemblyReference.cache
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.agentinterogate.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.projectinterogate.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.propertiesinterogate.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.customersphysical.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.customerslegal.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.ChangePassword.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.ClientAdd.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.loginform.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.dashboard.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.Myprofile.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.myprofil_component.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.popupbackforechpass.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.popupbackforesellproperties.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.ProjectAdd.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.Properties.Resources.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.PropertyAdd.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.sellproperties.resources
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.csproj.GenerateResource.cache
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.csproj.CoreCompileInputs.cache
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\app_1.csproj.CopyComplete
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\x.exe
+F:\Recover CRUZER STICK\AICI FISIERE\app_1\app_1\obj\Debug\x.pdb

@@ -1,0 +1,12 @@
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.clients_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.dashboard_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.loginform.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.dashboard.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.myprofil_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.project_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.Properties.Resources.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.properties_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.statistics_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.teamtable_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.website_component.resources
+C:\Users\FISHU\Desktop\programming_project\app_1\app_1\obj\Release\app_1.csproj.GenerateResource.Cache

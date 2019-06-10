@@ -1,0 +1,42 @@
+update clienti_fizici
+set statut = (select BulkColumn from openrowset(Bulk 'C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\bd\rosu.png',Single_Blob) as img)
+where data_ora < dateadd(day, -15, getdate()) and statut <> 'Contactat'
+
+
+update clienti_fizici
+set statut = (select BulkColumn from openrowset(Bulk 'C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\bd\rosu.png',Single_Blob) as img)
+where data_ora < dateadd(day, -15, getdate())
+
+
+create procedure update_necontactati
+as
+begin
+update clienti_fizici
+set statut = (select BulkColumn from openrowset(Bulk 'C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\bd\rosu.png',Single_Blob) as img)
+where data_ora < dateadd(day, -15, getdate())
+
+end
+
+update clienti_juridici
+set statut = (select BulkColumn from openrowset(Bulk 'C:\Users\IULIAN-DANIELGLAVAN\Desktop\Calculator\app_1\bd\rosu.png',Single_Blob) as img)
+where data_ora < dateadd(day, -15, getdate())
+
+
+
+
+update clienti_fizici
+set c_n = 'Necontactat'
+where data_ora < dateadd(day, -15, getdate()) and c_n = 'Contactat'
+
+
+
+
+create procedure update_nec
+as
+begin
+
+update clienti_fizici
+set c_n = 'Necontactat'
+where data_ora < dateadd(day, -15, getdate()) and c_n = 'Contactat'
+
+end

@@ -1,0 +1,1 @@
+﻿delete clienti_fizici;

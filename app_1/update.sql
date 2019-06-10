@@ -1,0 +1,1 @@
+﻿update dezvoltator set logo = BulkColumn from openrowset(bulk 'C:\Users\IULIAN-DANIELGLAVAN\Desktop\app_1\bd\logo.png',single_blob) as image
